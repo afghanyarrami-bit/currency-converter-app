@@ -68,7 +68,7 @@ This project was built by **Alamin** (afghanyarrami-bit), a Junior Frontend Deve
 ---
 
 ## 📸 Screenshots
-
+<img width="2751" height="1499" alt="Image" src="https://github.com/user-attachments/assets/b0a1e8f1-ebe3-4747-b04c-96323cce9011" />
 ### 🖥 Main Screen
 > Currency Converter showing AFN → USD conversion
 
