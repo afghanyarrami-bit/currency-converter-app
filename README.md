@@ -36,7 +36,7 @@
 
 **Currency Converter App** is a lightweight and user-friendly web application built with **React.js** that allows users to instantly convert amounts between world currencies. It features a clean white card UI with country flags, currency codes, and real-time conversion display.
 
-This project was built by **Alamin** (afghanyarrami-bit), a Junior Frontend Developer based in 🇨🇭 Switzerland, as part of a growing portfolio of React.js projects.
+This project was built by **Afghanyar** (afghanyarrami-bit), a Junior Frontend Developer based in 🇨🇭 Switzerland, as part of a growing portfolio of React.js projects.
 
 > ⚠️ **Note:** This version uses **static/fixed exchange rates** — no external API is used. All conversion logic is handled locally inside the app.
 
@@ -261,7 +261,7 @@ npm run deploy
 
 <div align="center">
 
-**Alamin** — Junior Frontend Developer 🇨🇭 Switzerland
+**Ramin Afghanyar** — Junior Frontend Developer 🇨🇭 Switzerland
 
 [![GitHub](https://img.shields.io/badge/GitHub-afghanyarrami--bit-black?style=for-the-badge&logo=github)](https://github.com/afghanyarrami-bit)
 [![Upwork](https://img.shields.io/badge/Upwork-Available-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](#)
@@ -277,7 +277,7 @@ npm run deploy
 This project is licensed under the **MIT License** — free to use and modify!
 
 ```
-MIT License © 2025 Alamin (afghanyarrami-bit)
+MIT License © 2025 Afghanyar (afghanyarrami-bit)
 ```
 
 ---
